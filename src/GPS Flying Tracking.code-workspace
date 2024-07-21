@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "GPS Flying Tracking",
+			"path": ".."
+		},
+		{
+			"name": "Temperater",
+			"path": "../../Temperater"
+		}
+	],
+	"settings": {}
+}
